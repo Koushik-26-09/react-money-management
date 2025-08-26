@@ -14,7 +14,7 @@ It helps you track your **income, expenses, and balance** in a clean and interac
 ---
 
 ## 🌐 Live Demo
-👉 [KoinTrack App](https://kointrack.ccbp.tech)
+👉 [KoinTrack App](https://kointrackk.ccbp.tech)
 
 ---
 
